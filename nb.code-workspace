@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../opensrc/d2l-en/d2l"
+		},
+		{
+			"path": "../../../Library/Python/3.9/lib/python/site-packages/torch"
+		}
+	],
+	"settings": {
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"master"
+		]
+	}
+}
